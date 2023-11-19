@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"a_Herencia"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"b_Abstractas"},{"l":"c_Interfaces"},{"l":"d_Polimorfismo"},{"l":"e_Excepciones_comunes"},{"l":"f_Excepciones_propias"},{"l":"g_Metodo_generico_matrices"},{"l":"h_Lee_archivo"},{"l":"i_lee_y_escribe_archivo"}];updateSearchResults();
